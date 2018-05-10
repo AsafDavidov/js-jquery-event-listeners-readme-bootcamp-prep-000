@@ -1,5 +1,5 @@
 //define functions here
-$('h1').on("click", function(){
+$('h1').on("eventname", function(){
     console.log("clicked");
 });
 
